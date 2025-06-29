@@ -1,0 +1,429 @@
+Acre – Rio Branco
+
+Nome: Selva Acreana
+Cidade: Rio Branco
+Valor: R$ 110 por noite
+--
+Nome: Pousada do Rio
+Cidade: Rio Branco
+Valor: R$ 80 por noite
+--
+Nome: Hotel das Palmeiras
+Cidade: Rio Branco
+Valor: R$ 150 por noite
+
+*/*
+
+Alagoas – Maceió 
+
+Nome: Solar do Sertão
+Cidade: Maceió
+Valor: R$ 120 por noite
+--
+Nome: Pousada das Ondas
+Cidade: Maceió
+Valor: R$ 180 por noite
+--
+Nome: Recanto Alagoano
+Cidade: Maceió
+Valor: R$ 90 por noite
+
+*/*
+
+Amapá – Macapá
+
+Nome: Hotel Equatorial
+Cidade: Macapá
+Valor: R$ 140 por noite
+--
+Nome: Pousada do Marco Zero
+Cidade: Macapá
+Valor: R$ 95 por noite
+--
+Nome: Fortaleza Suítes
+Cidade: Macapá
+Valor: R$ 170 por noite
+
+*/*
+
+Amazonas – Manaus 
+
+Nome: Hotel Amazonas Verde
+Cidade: Manaus
+Valor: R$ 150 por noite
+--
+Nome: Selva Suite Premium
+Cidade: Manaus
+Valor: R$ 220 por noite
+--
+Nome: Pousada do Encontro das Águas
+Cidade: Manaus
+Valor: R$ 110 por noite
+
+*/*
+
+Bahia – Salvador
+
+Nome: Brisa do São Francisco
+Cidade: Salvador
+Valor: R$ 200 por noite
+--
+Nome: Villa Bahiana
+Cidade: Salvador
+Valor: R$ 280 por noite
+--
+Nome: Porto da Barra Hostel
+Cidade: Salvador
+Valor: R$ 85 por noite
+
+*/*
+
+Ceará – Fortaleza 
+
+Nome: Serras do Cariri
+Cidade: Fortaleza
+Valor: R$ 130 por noite
+--
+Nome: Beira Mar Palace
+Cidade: Fortaleza
+Valor: R$ 250 por noite
+--
+Nome: Dunas Suite
+Cidade: Fortaleza
+Valor: R$ 95 por noite
+
+*/*
+
+Distrito Federal – Brasília
+
+Nome: Capital Suítes
+Cidade: Brasília
+Valor: R$ 300 por noite
+--
+Nome: Alvorada Palace
+Cidade: Brasília
+Valor: R$ 450 por noite
+--
+Nome: JK Hostel
+Cidade: Brasília
+Valor: R$ 100 por noite
+
+*/*
+
+Espírito Santo – Vitória
+
+Nome: Ilha do Príncipe
+Cidade: Vitória
+Valor: R$ 190 por noite
+--
+Nome: Praia de Camburi Suítes
+Cidade: Vitória
+Valor: R$ 230 por noite
+--
+Nome: Pousada Colonial
+Cidade: Vitória
+Valor: R$ 120 por noite
+
+*/*
+
+Goiás – Goiânia
+
+Nome: Cerrado Plaza
+Cidade: Goiânia
+Valor: R$ 160 por noite
+--
+Nome: Vila Boa Suítes
+Cidade: Goiânia
+Valor: R$ 210 por noite
+--
+Nome: Flamboyant Inn
+Cidade: Goiânia
+Valor: R$ 95 por noite
+
+*/*
+
+Maranhão – São Luís
+
+Nome: Solar dos Azulejos
+Cidade: São Luís
+Valor: R$ 180 por noite
+--
+Nome: Pousada da Lençóis
+Cidade: São Luís
+Valor: R$ 140 por noite
+--
+Nome: República Suítes
+Cidade: São Luís
+Valor: R$ 90 por noite
+
+*/*
+
+Mato Grosso – Cuiabá
+
+Nome: Pantanal Palace
+Cidade: Cuiabá
+Valor: R$ 170 por noite
+--
+Nome: Hotel Chapada
+Cidade: Cuiabá
+Valor: R$ 130 por noite
+--
+Nome: Pousada do Rio Cuiabá
+Cidade: Cuiabá
+Valor: R$ 100 por noite
+
+*/*
+
+Mato Grosso do Sul – Campo Grande
+
+Nome: Bonito Eco Resort
+Cidade: Campo Grande
+Valor: R$ 220 por noite
+--
+Nome: Pousada do Pantanal
+Cidade: Campo Grande
+Valor: R$ 150 por noite
+--
+Nome: Central Plaza
+Cidade: Campo Grande
+Valor: R$ 110 por noite
+
+*/*
+
+Minas Gerais – Belo Horizonte
+
+Nome: Savassi Suítes
+Cidade: Belo Horizonte
+Valor: R$ 200 por noite
+--
+Nome: Pampulha Palace
+Cidade: Belo Horizonte
+Valor: R$ 280 por noite
+--
+Nome: Mercure Lourdes
+Cidade: Belo Horizonte
+Valor: R$ 120 por noite
+
+*/*
+
+Pará – Belém
+
+Nome: Ver-o-Peso Hotel
+Cidade: Belém
+Valor: R$ 160 por noite
+--
+Nome: Estação das Docas
+Cidade: Belém
+Valor: R$ 190 por noite
+--
+Nome: Amazon River Suítes
+Cidade: Belém
+Valor: R$ 110 por noite
+
+*/*
+
+Paraíba – João Pessoa
+
+Nome: Tambaú Beach Hotel
+Cidade: João Pessoa
+Valor: R$ 180 por noite
+--
+Nome: Cabo Branco Suítes
+Cidade: João Pessoa
+Valor: R$ 140 por noite
+--
+Nome: Pousada do Sol
+Cidade: João Pessoa
+Valor: R$ 90 por noite
+
+*/*
+
+Paraná – Curitiba
+
+Nome: Jardim Botânico Hotel
+Cidade: Curitiba
+Valor: R$ 220 por noite
+--
+Nome: Batel Suítes
+Cidade: Curitiba
+Valor: R$ 300 por noite
+--
+Nome: Ópera de Arame Hostel
+Cidade: Curitiba
+Valor: R$ 85 por noite
+
+*/*
+
+Pernambuco – Recife
+
+Nome: Boa Viagem Resort
+Cidade: Recife
+Valor: R$ 250 por noite
+--
+Nome: Pousada do Recife Antigo
+Cidade: Recife
+Valor: R$ 150 por noite
+--
+Nome: Marco Zero Hostel
+Cidade: Recife
+Valor: R$ 80 por noite
+
+*/*
+
+Piauí – Teresina
+
+Nome: Rio Poty Hotel
+Cidade: Teresina
+Valor: R$ 130 por noite
+--
+Nome: Pousada da Ponte
+Cidade: Teresina
+Valor: R$ 100 por noite
+--
+Nome: Teresina Suítes
+Cidade: Teresina
+Valor: R$ 75 por noite
+
+*/*
+
+Rio de Janeiro – Rio de Janeiro
+
+Nome: Copacabana Palace
+Cidade: Rio de Janeiro
+Valor: R$ 500 por noite
+--
+Nome: Ipanema Beach Hostel
+Cidade: Rio de Janeiro
+Valor: R$ 120 por noite
+--
+Nome: Santa Teresa Pousada
+Cidade: Rio de Janeiro
+Valor: R$ 200 por noite
+
+*/*
+
+Rio Grande do Norte – Natal
+
+Nome: Dunas de Natal
+Cidade: Natal
+Valor: R$ 180 por noite
+--
+Nome: Pousada da Praia
+Cidade: Natal
+Valor: R$ 140 por noite
+--
+Nome: Solarium Hostel
+Cidade: Natal
+Valor: R$ 90 por noite
+
+*/*
+
+Rio Grande do Sul – Porto Alegre
+
+Nome: Gasômetro Hotel
+Cidade: Porto Alegre
+Valor: R$ 190 por noite
+--
+Nome: Moinhos de Vento Suítes
+Cidade: Porto Alegre
+Valor: R$ 240 por noite
+--
+Nome: Guaíba Hostel
+Cidade: Porto Alegre
+Valor: R$ 100 por noite
+
+*/*
+
+Rondônia – Porto Velho
+
+Nome: Hotel Madeira-Mamoré
+Cidade: Porto Velho
+Valor: R$ 120 por noite
+--
+Nome: Pousada do Rio Madeira
+Cidade: Porto Velho
+Valor: R$ 90 por noite
+--
+Nome: Amazon Palace
+Cidade: Porto Velho
+Valor: R$ 150 por noite
+
+*/*
+
+Roraima – Boa Vista
+
+Nome: Pousada do Monte Roraima
+Cidade: Boa Vista
+Valor: R$ 130 por noite
+--
+Nome: Hotel Orla Taumanan
+Cidade: Boa Vista
+Valor: R$ 160 por noite
+--
+Nome: Vento Norte Hostel
+Cidade: Boa Vista
+Valor: R$ 85 por noite
+
+*/*
+
+Santa Catarina – Florianópolis
+
+Nome: Praia Mole Resort
+Cidade: Florianópolis
+Valor: R$ 280 por noite
+--
+Nome: Lagoa da Conceição Pousada
+Cidade: Florianópolis
+Valor: R$ 190 por noite
+--
+Nome: Hostel da Ilha
+Cidade: Florianópolis
+Valor: R$ 110 por noite
+
+*/*
+
+São Paulo – São Paulo
+
+Nome: Paulista Plaza
+Cidade: São Paulo
+Valor: R$ 350 por noite
+--
+Nome: Ibirapuera Suítes
+Cidade: São Paulo
+Valor: R$ 250 por noite
+--
+Nome: Vila Madalena Hostel
+Cidade: São Paulo
+Valor: R$ 120 por noite
+
+*/*
+
+Sergipe – Aracaju
+
+Nome: Orla de Atalaia Hotel
+Cidade: Aracaju
+Valor: R$ 170 por noite
+--
+Nome: Pousada do Mangue
+Cidade: Aracaju
+Valor: R$ 130 por noite
+--
+Nome: Praia Formosa Hostel
+Cidade: Aracaju
+Valor: R$ 85 por noite
+
+*/*
+
+Tocantins – Palmas
+
+Nome: Ilha do Bananal Suítes
+Cidade: Palmas
+Valor: R$ 150 por noite
+--
+Nome: Pousada do Lago
+Cidade: Palmas
+Valor: R$ 110 por noite
+--
+Nome: Serra do Carmo Hostel
+Cidade: Palmas
+Valor: R$ 80 por noite
